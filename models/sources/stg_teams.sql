@@ -16,6 +16,7 @@ renamed AS (
         year_founded
     FROM
         source
+        
 )
 
 SELECT 
