@@ -40,6 +40,7 @@ renamed AS (
         plus_minus AS plus_minus,
         season,
         game_type
+        
     FROM 
         source
 )
