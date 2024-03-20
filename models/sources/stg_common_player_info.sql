@@ -42,6 +42,7 @@ renamed AS (
         greatest_75_flag AS greatest_75_member
     FROM 
         source
+        
 )
 
 SELECT 
