@@ -1,5 +1,6 @@
 version: 2
 models:
+  - name: agg_player_game_logs
   - name: player_game_logs_agg_example
     description: >-
       This model aggregates stg_player_game_logs.sql for regular season and
